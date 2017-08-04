@@ -55,5 +55,4 @@ export class HeroService {
             .then(() => null)
             .catch(this.handleError);
     }
-
-
+}
